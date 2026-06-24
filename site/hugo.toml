@@ -87,7 +87,7 @@ defaultContentLanguage = "en"
 [[menu.main]]
     name = "Reference"
     weight = 30
-    url = "/reference/"
+    url = "/reference/api-spec/main/spec/"
 
 [[menu.main]]
     name = "Enhancements"
